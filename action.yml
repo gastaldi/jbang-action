@@ -18,5 +18,4 @@ inputs:
       required: false
 runs:
   using: 'docker'
-  image: 'docker://jbangdev/jbang:0.72.0'
- 
+  image: 'docker://jbangdev/jbang-action:0.72.0'
